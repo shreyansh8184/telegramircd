@@ -1,13 +1,13 @@
 # See https://pypi.python.org/pypi/ConfigArgParse for syntax
 
 # Phone number. No leading +
-tg-phone: 10123456789
+tg-phone: +919579360075
 # App api_id from https://my.telegram.org/apps
-tg-api-id: 00000
+tg-api-id: 951521
 # App api_hash. No single quotation marks
-tg-api-hash: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+tg-api-hash: 6e07bad7b275a7c4a2ebc0972ac87d4f
 # Session name (account credential, login code is not needed for future logins)
-tg-session: telegramircd
+tg-session: 1BVtsOIwBu3x8GTdX6_JiYMY-WFY2LCtyk8FRRFc9hFS7dL2DCU6av8YIgf1U2KXAkjuzDD2ZUg0BK4TVDNrkRHBioeH3bm6N5zrHMyxGNZ1nq1WH6xXLWkYf1oMITh05WFxnik1cc59MS9_JDdS7CpDZIN7DQR1IxxprWZ9TJq2EWOGNPoDVkF-4qNB8dl1zRwehc0VgSuwDXB1jFIN3hnPfHCNHPDC_a967Ht5FHW3fkjRVYszqqeX2AoAFBXREzM4fH_VpdIc7rlUq4vwpR9zZwuowjCBstC0mO6dNnc8UVbCziDFdhUcxhykTtllf6g8DFbvKDqMXLXIRwGTYPArMqzd2eGM=
 # Where to store $tg_session.session . Make sure this directory is writable (especially when you use a systemd service)
 tg-session-dir: .
 
