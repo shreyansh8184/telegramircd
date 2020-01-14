@@ -3,4 +3,4 @@ python-magic
 ipdb
 ipython
 configargparse
-telethon-sync
+
